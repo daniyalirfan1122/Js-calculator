@@ -1,0 +1,55 @@
+body{
+    background-color: steelblue;
+}
+
+.main{
+    width: 300px;
+    border: 2px solid gray;
+    margin-left: 38%;
+    margin-top: 2%;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px black;
+
+}
+.www{
+    text-align: center;
+    font-size: 40px;
+}
+.inp {
+    width: 97%;
+    height: 60px;
+    background-color:black;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    outline: none;
+    font-size: 22px;
+    
+}
+.btn{
+    margin: 6px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 22px;
+    border: none;
+}
+.btn2{
+    width: 135px;
+    height: 60px;
+    margin: 5px;
+    border-radius: 30px;
+    font-size: 22px;
+    background-color: gray;
+    border: none;
+}
+#abc {
+    color: white;
+    background-color: rgb(255, 166, 0);
+}
+
+#xyz{
+    background-color: red;
+    border: none;
+}
